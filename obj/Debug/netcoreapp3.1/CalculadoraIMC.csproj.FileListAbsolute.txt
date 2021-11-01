@@ -1,0 +1,13 @@
+C:\Users\Wellington\Documents\DevCs\CalculadoraIMC\bin\Debug\netcoreapp3.1\CalculadoraIMC.exe
+C:\Users\Wellington\Documents\DevCs\CalculadoraIMC\bin\Debug\netcoreapp3.1\CalculadoraIMC.deps.json
+C:\Users\Wellington\Documents\DevCs\CalculadoraIMC\bin\Debug\netcoreapp3.1\CalculadoraIMC.runtimeconfig.json
+C:\Users\Wellington\Documents\DevCs\CalculadoraIMC\bin\Debug\netcoreapp3.1\CalculadoraIMC.runtimeconfig.dev.json
+C:\Users\Wellington\Documents\DevCs\CalculadoraIMC\bin\Debug\netcoreapp3.1\CalculadoraIMC.dll
+C:\Users\Wellington\Documents\DevCs\CalculadoraIMC\bin\Debug\netcoreapp3.1\CalculadoraIMC.pdb
+C:\Users\Wellington\Documents\DevCs\CalculadoraIMC\obj\Debug\netcoreapp3.1\CalculadoraIMC.csprojAssemblyReference.cache
+C:\Users\Wellington\Documents\DevCs\CalculadoraIMC\obj\Debug\netcoreapp3.1\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\Wellington\Documents\DevCs\CalculadoraIMC\obj\Debug\netcoreapp3.1\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\Wellington\Documents\DevCs\CalculadoraIMC\obj\Debug\netcoreapp3.1\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\Wellington\Documents\DevCs\CalculadoraIMC\obj\Debug\netcoreapp3.1\CalculadoraIMC.dll
+C:\Users\Wellington\Documents\DevCs\CalculadoraIMC\obj\Debug\netcoreapp3.1\CalculadoraIMC.pdb
+C:\Users\Wellington\Documents\DevCs\CalculadoraIMC\obj\Debug\netcoreapp3.1\CalculadoraIMC.genruntimeconfig.cache
